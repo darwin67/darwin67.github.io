@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://darwindwu.com/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://darwindwu.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://darwindwu.com/about/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://darwindwu.com/about/</guid>
+      <description>My name is Darwin D. Wu and I&amp;rsquo;m a software engineer based in San Francisco.
+I&amp;rsquo;m a self-taught engineer, graduated with a Political Science/Economics degree but have felt in love with software engineering since my senior year and have made the jump into this world.
+I&amp;rsquo;m mostly what people call a Full-Stack engineer and DevOps/SRE, but currently more focus on the backend and ops side these days. Interested in all kinds of technologies, especially operating systems, compilers and the lower level stuff.</description>
+    </item>
+    
+  </channel>
+</rss>
